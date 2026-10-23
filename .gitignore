@@ -1,0 +1,7 @@
+# Local gh CLI config (keeps the cached GitHub token out of git)
+.gh/
+.envrc
+.envrc.local
+__pycache__/
+*.386
+*.bak
